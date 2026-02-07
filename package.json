@@ -1,6 +1,6 @@
 {
   "name": "@future-innovations-lk/baileys",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fork of Baileys with extended media, button & newsletter features",
   "keywords": [
     "whatsapp-baileys"
